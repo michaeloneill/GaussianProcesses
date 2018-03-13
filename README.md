@@ -1,2 +1,2 @@
 # MLTutorials
-IPython scripts demonstrating various ML concepts though simple examples. These supplement my MLTutorial blog posts.
+Gaussian Processes regression and classification implementations, based on scikit-learn. See https://michaeloneill.github.io for blog.
